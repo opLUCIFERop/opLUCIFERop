@@ -11,5 +11,6 @@ Here are some ideas to get you started:
 - 😄 Pronouns: LUCIFER...
 
 
+### Spotify Playing 🎧
 
-<img src="https://github-readme-stats.vercel.app/api?username=opLUCIFERop_icons=true&title_color=000080&icon_color=000080&text_color=000080&bg_color=ffffff">
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/ubs82hfk3k39t6aamuukcplnv?si=G6zp28BwTB-gijAQmnlPMA)
