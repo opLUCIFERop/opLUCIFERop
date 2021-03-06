@@ -12,4 +12,4 @@ Here are some ideas to get you started:
 
 
 
-<img src="https://github-readme-stats.vercel.app/api?username=iampawan&&show_icons=true&title_color=000080&icon_color=000080&text_color=000080&bg_color=ffffff">
+<img src="https://github-readme-stats.vercel.app/api?username=opLUCIFERop_icons=true&title_color=000080&icon_color=000080&text_color=000080&bg_color=ffffff">
