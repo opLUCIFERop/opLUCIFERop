@@ -18,8 +18,7 @@ Here are some ideas to get you started:
 ### Connect with me:
 
 
-[<img align="left" alt="lucifer" width="22px" src="https://www.flaticon.com/svg/static/icons/svg/2991/2991144.svg"/>][gmail]
-
+<img align="left" alt="lucifer" width="22px" src="https://www.flaticon.com/svg/vstatic/svg/2111/2111370.svg?token=exp=1615118806~hmac=19b688065d8f464a7a41ba8c8326c68e"/>
 <br />
 
 
@@ -39,14 +38,8 @@ Here are some ideas to get you started:
 <br />
 <br />
 
+ <img align="left" alt="opLUCIFERop Github Stats" src="https://github-readme-stats-codestackr.vercel.app/api?username=opLUCIFERop&amp;show_icons=true&amp;hide_border=true&amp;count_private=true" style="max-width:100%;">
+
 ---
-
-
-<details>
-  <summary>:zap: Github Stats</summary>
-
-  <img align="left" alt="opLUCIFERop Github Stats" src="https://github-readme-stats-codestackr.vercel.app/api?username=opLUCIFERop&amp;show_icons=true&amp;hide_border=true&amp;count_private=true" style="max-width:100%;">
-
-</details>
 
 [gmail]:manoharsharma1212@gmail.com
