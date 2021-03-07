@@ -1,4 +1,4 @@
-### Hi there, I'm Dev - aka LUCIFER 👋
+### Hi there, I'm LUCIFER 👋
 
 Here are some ideas to get you started:
 
