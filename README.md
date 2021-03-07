@@ -12,7 +12,7 @@ Here are some ideas to get you started:
 
 
 ### Spotify Playing 🎧
-<img src="https://spotify-github-profile.vercel.app/api/view?uid=31q2htrwql6h6qiqtpj4nci4fx3m&cover_image=false"/>
+[<img src="https://now-playing-codestackr.vercel.app/api/spotify-playing" alt="codeSTACKr Spotify Playing" width="350" />](https://open.spotify.com/user/ubs82hfk3k39t6aamuukcplnv?si=XM9TuYUqR_a8Tjv7eKNdrg)
 
 ### Connect with me:
 
